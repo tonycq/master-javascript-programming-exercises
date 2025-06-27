@@ -17,7 +17,7 @@
 "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
 "graded": true,
 "editor": {
-    "version": "5.0",
+    "version": "4.0",
     "agent": "vscode"
 },
 "telemetry": {
