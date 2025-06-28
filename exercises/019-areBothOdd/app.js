@@ -30,4 +30,5 @@ return (num1 %2 !==0) && (num2 %2) !==0
 //porque num2 % 2 se evalúa primero (por precedencia de operadores)y
 //Luego se evalúa:num1 && (resultado de lo anterior)
 //⚠️ Esto no está evaluando si num1 es impar, solo si num1 es un valor "truthy"
+// 
 //  (no cero, no null, no undefined, etc.)
